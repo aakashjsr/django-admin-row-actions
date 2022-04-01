@@ -1,6 +1,6 @@
 from django import VERSION
 from django import forms
-from django.conf.urls import path
+from django.urls import path
 from django.utils.safestring import mark_safe
 from django.utils.translation import ugettext_lazy as _
 
